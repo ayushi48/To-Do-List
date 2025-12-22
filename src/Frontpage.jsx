@@ -35,7 +35,7 @@
 //         viewport={{ once: false, amount: 0.1 }}
 //         className="border border-gray-600 font-bold w-screen h-[6rem] flex items-center justify-around px-8 space-x-8 bg-gradient-to-r from-white/50 via-gray-100/50 to-white/50"
 //       >
-//         <img src="" alt="Logo" className="h-10 w-10 bg-white rounded-full" />
+//         <img src="" alt="Logo" className="h-5 w-5 bg-white rounded-full" />
 //         <Link to="/home" className="text-white text-2xl hover:text-orange-400">Home</Link>
 //         <Link to="/download" className="text-white text-2xl hover:text-orange-400">Download</Link>
 //         <Link to="/signin" className="text-white text-2xl hover:text-orange-400 border w-[11rem] h-14 rounded-3xl flex items-center justify-center">Sign In</Link>
@@ -677,5 +677,6 @@ const Frontpage = () => {
 };
 
 export default Frontpage;
+
 
 
