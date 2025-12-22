@@ -9,6 +9,7 @@ The To-Do List Application is a personal productivity tool enabling users to eff
 - All Tasks
 - Calendar View
 - Today’s Reminders
+- Preferred at Desktop Mode -For Better View 
 
 Additionally, the app includes focus-enhancing features such as a stopwatch/timer and UI customization options.
 
