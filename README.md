@@ -1,9 +1,6 @@
 <div align="center">
 
-<!-- <img src="https://raw.githubusercontent.com/ayushi48/To-Do-List/main/public/preview.png" alt="To-Do List App Preview" width="100%" style="border-radius: 12px;" /> -->
 
-<br/>
-<br/>
 
 # 📝 To-Do List — Productivity Dashboard
 
