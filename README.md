@@ -127,25 +127,48 @@ Everything stored locally means:
 
 ## 🗂️ Project Structure
 
-```
+```bash
 To-Do-List/
 ├── public/
-│   └── preview.png           # App preview image
 ├── src/
-│   ├── components/
-│   │   ├── TaskCard.jsx       # Individual task component
-│   │   ├── Calendar.jsx       # Calendar & agenda view
-│   │   ├── FocusTimer.jsx     # Stopwatch / countdown timer
-│   │   ├── Reminders.jsx      # Today's reminders panel
-│   │   └── Settings.jsx       # Theme & UI customization
-│   ├── App.jsx                # Root app with navigation
-│   ├── main.jsx               # React entry point
-│   └── index.css              # Global styles
-├── tailwind.config.js         # Tailwind configuration
-├── vite.config.js             # Vite build configuration
-└── package.json
+│   ├── assets/
+│   ├── assets copy/
+│   ├── App.jsx
+│   ├── Calender.jsx
+│   ├── CardSwap.jsx
+│   ├── ClockTools.jsx
+│   ├── Footer.jsx
+│   ├── Form.jsx
+│   ├── Frontpage.jsx
+│   ├── Important.jsx
+│   ├── MainHeading.jsx
+│   ├── Masonry.jsx
+│   ├── Navbar.jsx
+│   ├── OverallSetting.jsx
+│   ├── ProductiveToolSection.jsx
+│   ├── RollingGallery.jsx
+│   ├── Setting.jsx
+│   ├── Slice1.jsx
+│   ├── Slice2.jsx
+│   ├── StopWatch.jsx
+│   ├── Store.jsx
+│   ├── TaskStatusCards.jsx
+│   ├── TaskSummeryCard.jsx
+│   ├── Taskbox3.jsx
+│   ├── Timer.jsx
+│   ├── ToDo.jsx
+│   ├── alltask.json
+│   ├── home.json
+│   ├── index.css
+│   ├── main copy.jsx
+│   └── main.jsx
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+└── vite.config.js
 ```
-
 ---
 
 ## 🔮 Roadmap
